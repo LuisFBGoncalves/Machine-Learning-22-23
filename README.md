@@ -4,7 +4,7 @@
 
 ### MACHINE LEARNING 2022/23
 
-#### Group Elements
+#### Group Members
 ```
 Margarida Ferreira: https://www.linkedin.com/in/margaridacouceirofeio/
 
